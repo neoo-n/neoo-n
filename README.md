@@ -5,7 +5,7 @@
 <h2 align="center">42 School - Lausanne</h2>
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/dvauthey?1337Badge=off&UM6P=off" alt="dvauthey's 42 stats" />
+    <img src="https://badge.mediaplus.ma/colorfulwaves/dvauthey?1337Badge=off&UM6P=off" alt="dvauthey's 42 stats" />
   </a>
 </div>
 
