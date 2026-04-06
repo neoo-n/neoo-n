@@ -1,2 +1,2 @@
-![[Hi there]](https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-## Hi there
+![[Hi there]](https://capsule-render.vercel.app/api?type=speech&text=Hi%there&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
