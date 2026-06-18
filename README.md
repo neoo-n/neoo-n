@@ -11,6 +11,5 @@
 <h2 align="center">Github Stats</h2>
 <div align="center">
 	<img src="https://ghstats.dev/api/card?username=neoo-n&theme=dracula&hide_title=true&border_radius=20" alt="GitHub Stats Card" />
-	<img src="https://ghstats.dev/api/langs?username=octocat&theme=dracula&hide_title=true&border_radius=20&max_langs=5" alt="Top Languages" />
 </div>
 
