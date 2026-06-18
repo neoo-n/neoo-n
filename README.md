@@ -8,8 +8,9 @@
     <img src="https://badge.mediaplus.ma/starryblue/dvauthey?1337Badge=off&UM6P=off" alt="dvauthey's 42 stats" />
   </a>
 </div>
-<div align="center">
 <h2 align="center">Github Stats</h2>
-	<img src="https://ghstats.dev/api/card?username=neoo-n" alt="GitHub Stats Card" />
+<div align="center">
+	<img src="https://ghstats.dev/api/card?username=neoo-n&theme=dracula&hide_title=true&border_radius=30" alt="GitHub Stats Card" />
+	<img src="https://ghstats.dev/api/langs?username=octocat&theme=dracula&hide_title=true&border_radius=30" alt="Top Languages" />
 </div>
 
