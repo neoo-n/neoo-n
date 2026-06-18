@@ -9,6 +9,6 @@
   </a>
 </div>
 <div>
-	![GitHub Stats](https://ghstats.dev/api/card?username=neoo-n)
+	<img src="https://ghstats.dev/api/card?username=octocat" alt="GitHub Stats Card" />
 </div>
 
