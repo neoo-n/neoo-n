@@ -8,4 +8,7 @@
     <img src="https://badge.mediaplus.ma/starryblue/dvauthey?1337Badge=off&UM6P=off" alt="dvauthey's 42 stats" />
   </a>
 </div>
+<div>
+	![GitHub Stats](https://ghstats.dev/api/card?username=YOUR_USERNAME)
+</div>
 
